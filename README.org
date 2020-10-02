@@ -1,2 +1,5 @@
+#+TITLE:Personal blog of Marc Wenzlawski
+
 * This is a website
 Testing
+curl https://web.cs.manchester.ac.uk/dashboard/update?token=0p08poLyGljulYvVqlfPEd%2FJECl0CJVSB55nclEWPik -o status.json
